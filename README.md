@@ -1,5 +1,7 @@
 ### Hi there 👋
+### Freelance full-stack iOS & Android engineer
 
+![https://github.com/LVanessaS](banner_lvsj.png)
 <!--
 **LVanessaS/LVanessaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
