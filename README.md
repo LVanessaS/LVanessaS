@@ -1,7 +1,11 @@
-### Hi there 👋
-### Freelance full-stack iOS & Android engineer
+### Hola, Soy Vanessa 👋
 
 ![https://github.com/LVanessaS](banner_lvsj.png)
+
+Soy matemática graduada de la Universidad Distrital Francisco José de Caldas. 
+
+Tengo interés en trabajar en el sector tecnológico, busco oportunidades que me permitan crecer en el área de análisis de datos. ¡Soy una persona comprometida con el trabajo y la mejora continua!
+
 <!--
 **LVanessaS/LVanessaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
