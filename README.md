@@ -21,26 +21,24 @@ En este repositorio podrás encontrar los proyectos que he ido realizando de for
 
 ---------------------------------------------------------------------------------------------------------------
 
-### Hola, Soy Vanessa 👋
+### Hi, here Vanessa 👋
 
-![https://github.com/LVanessaS](banner_lvsj.png)
+I am a mathematician who studied at Distrital University in Bogotá, Colombia.
 
-Soy matemática graduada de la Universidad Distrital Francisco José de Caldas. 
+I have a keen interest in working in the technology sector, actively seeking opportunities that allow me to grow in the field of data analysis. I am disciplined, determined, and continuously strive for improvement. Moreover, I love working collaboratively in a team. 💪
 
-Tengo interés en trabajar en el sector tecnológico, busco oportunidades que me permitan crecer en el área de análisis de datos. ¡Soy una persona comprometida con el trabajo y la mejora continua!, además, considero fundamental el trabajo en equipo. 💪
+Throughout my professional career, I have developed a strong interest in artificial intelligence, leading me to focus my degree work on Artificial Neural Networks.
 
-A lo largo de mi carrera profesional sentí interes en la inteligencia artificial, razón por la cuál realicé mi trabajo de grado en Redes Neuronales Artificiales.
-
-En el siguiente enlace, puedes encontrar este trabajo de grado:
+You can find my thesis at the following link: 
 
 https://repository.udistrital.edu.co/handle/11349/30489👈
 
-En este repositorio podrás encontrar los proyectos que he ido realizando de forma independiente. Estoy trabajando en proyectos de:
+In this repository, you will also find independent projects I have been working on. I am currently involved in projects related to:
 
-✨ Extracción, limpieza y transformación.
-📊 Análisis exploratorio de datos.
-💻 Visualización de datos.
-👨🏼‍💻 Ciencia de datos.
+✨ Extraction, cleaning and transformation.
+📊 Exploratory data analysis.
+💻 Data visualization.
+👨🏼‍💻 Data science.
 
 
 <!--
