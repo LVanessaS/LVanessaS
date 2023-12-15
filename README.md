@@ -15,10 +15,10 @@ https://repository.udistrital.edu.co/handle/11349/30489 👈
 
 En este repositorio podrás encontrar los proyectos que he ido realizando de forma independiente. Estoy trabajando en proyectos de:
 
--✨ Extracción, limpieza y transformación.</br>
--📊 Análisis exploratorio de datos.</br>
--💻 Visualización de datos.</br>
--👨🏼‍💻 Ciencia de datos.
+✨ Extracción, limpieza y transformación.</br>
+📊 Análisis exploratorio de datos.</br>
+💻 Visualización de datos.</br>
+👨🏼‍💻 Ciencia de datos.
 
 ---------------------------------------------------------------------------------------------------------------
 
@@ -36,9 +36,9 @@ https://repository.udistrital.edu.co/handle/11349/30489 👈
 
 In this repository, you will also find independent projects I have been working on. I am currently involved in projects related to:
 
-✨ Extraction, cleaning and transformation.
-📊 Exploratory data analysis.
-💻 Data visualization.
+✨ Extraction, cleaning and transformation.</br>
+📊 Exploratory data analysis.</br>
+💻 Data visualization.</br>
 👨🏼‍💻 Data science.
 
 
