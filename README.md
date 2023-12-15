@@ -1,6 +1,7 @@
-### Hola, Soy Vanessa 👋
 
 ![https://github.com/LVanessaS](banner_lvsj.png)
+
+### Hola, Soy Vanessa 👋
 
 Soy matemática graduada de la Universidad Distrital Francisco José de Caldas. 
 
@@ -10,14 +11,14 @@ A lo largo de mi carrera profesional sentí interes en la inteligencia artificia
 
 En el siguiente enlace, puedes encontrar este trabajo de grado:
 
-https://repository.udistrital.edu.co/handle/11349/30489👈
+https://repository.udistrital.edu.co/handle/11349/30489 👈
 
 En este repositorio podrás encontrar los proyectos que he ido realizando de forma independiente. Estoy trabajando en proyectos de:
 
-✨ Extracción, limpieza y transformación.
-📊 Análisis exploratorio de datos.
-💻 Visualización de datos.
-👨🏼‍💻 Ciencia de datos.
+-✨ Extracción, limpieza y transformación.
+-📊 Análisis exploratorio de datos.
+-💻 Visualización de datos.
+-👨🏼‍💻 Ciencia de datos.
 
 ---------------------------------------------------------------------------------------------------------------
 
@@ -31,7 +32,7 @@ Throughout my professional career, I have developed a strong interest in artific
 
 You can find my thesis at the following link: 
 
-https://repository.udistrital.edu.co/handle/11349/30489👈
+https://repository.udistrital.edu.co/handle/11349/30489 👈
 
 In this repository, you will also find independent projects I have been working on. I am currently involved in projects related to:
 
