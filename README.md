@@ -15,9 +15,9 @@ https://repository.udistrital.edu.co/handle/11349/30489 👈
 
 En este repositorio podrás encontrar los proyectos que he ido realizando de forma independiente. Estoy trabajando en proyectos de:
 
--✨ Extracción, limpieza y transformación.
--📊 Análisis exploratorio de datos.
--💻 Visualización de datos.
+-✨ Extracción, limpieza y transformación.</br>
+-📊 Análisis exploratorio de datos.</br>
+-💻 Visualización de datos.</br>
 -👨🏼‍💻 Ciencia de datos.
 
 ---------------------------------------------------------------------------------------------------------------
